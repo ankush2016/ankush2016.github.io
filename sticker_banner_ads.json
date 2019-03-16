@@ -1,16 +1,14 @@
-{
-  "bannerads": [
-    {
-      "imageUrl": "1",
-      "playStoreUrl": "a"
-    },
-    {
-      "imageUrl": "2",
-      "playStoreUrl": "b"
-    },
-    {
-      "imageUrl": "3",
-      "playStoreUrl": "c"
-    }
-  ]
-}
+[
+  {
+    "imageUrl": "1",
+    "playStoreUrl": "a"
+  },
+  {
+    "imageUrl": "2",
+    "playStoreUrl": "b"
+  },
+  {
+    "imageUrl": "3",
+    "playStoreUrl": "c"
+  }
+]
