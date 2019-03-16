@@ -1,14 +1,17 @@
 [
   {
     "imageUrl": "https://lh3.googleusercontent.com/vNEBrJIfVJFSEUNwoh-l_gYvpBEwr0x0E85D4XFOHk3AEMwaWg6_v1C_z4rbiIyOPYKo=h200",
-    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.valentine.stickers"
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.valentine.stickers",
+    "appName": "WhatsApp Love Stickers"
   },
   {
     "imageUrl": "https://lh3.googleusercontent.com/4yJktYLf6YOP9OXfDz2h1XMTZb9P6gl-hjtH2bq7gi5791E-zujfad4xCFr6-ntluZ_t=h200",
-    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.wastickerapps.bollywoodstickers"
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.wastickerapps.bollywoodstickers",
+    "appName": "Bollywood Stickers"
   },
   {
     "imageUrl": "https://lh3.googleusercontent.com/bvCP4puBKRWJCMix8ilGQG-KFvyb7aJv49xKMxFJWkegiSHoAnHw1H-ztVeVrFoSxSM=h200",
-    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.wastickerapps.newholistickers"
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.wastickerapps.newholistickers",
+    "appName": "Holi"
   }
 ]
