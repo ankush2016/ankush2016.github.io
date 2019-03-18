@@ -5,14 +5,14 @@
     "appName": "WhatsApp Love Stickers"
   },
   {
-    "imageUrl": "https://lh3.googleusercontent.com/4yJktYLf6YOP9OXfDz2h1XMTZb9P6gl-hjtH2bq7gi5791E-zujfad4xCFr6-ntluZ_t=h500",
-    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.wastickerapps.bollywoodstickers",
-    "appName": "Bollywood Stickers"
-  },
-  {
     "imageUrl": "https://media.giphy.com/media/TFBvJchzMXwyY/giphy.gif",
     "playStoreUrl": "https://play.google.com/store/apps/details?id=com.wastickerapps.newholistickers",
     "appName": "Holi"
+  },
+  {
+    "imageUrl": "https://lh3.googleusercontent.com/4yJktYLf6YOP9OXfDz2h1XMTZb9P6gl-hjtH2bq7gi5791E-zujfad4xCFr6-ntluZ_t=h500",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.wastickerapps.bollywoodstickers",
+    "appName": "Bollywood Stickers"
   },
   {
     "imageUrl": "https://lh3.googleusercontent.com/JIIvjU8YkrzTVHkIovmep6WQttCGuMk0BwblrFLk817vCW0IiJROUM0hc6taX_PN3Et0=h500",
