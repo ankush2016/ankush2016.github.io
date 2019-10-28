@@ -1,7 +1,37 @@
 [
   {
-    "imageUrl": "https://ankush2016.github.io/repository/diwaligreetings.jpeg",
-    "playStoreUrl": "http://diwaliwishes.watools.xyz/",
-    "appName": "Diwali Greetings WATools"
+    "imageUrl": "https://ankush2016.github.io/repository/diwalistickers.jpeg",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.wastickerapps.diwalistickers",
+    "appName": "Dussehra Diwali Stickers"
+  },
+  {
+    "imageUrl": "https://i.ytimg.com/vi/Uei3MCctQCo/maxresdefault.jpg",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.whatstools.directmessage.statussaver",
+    "appName": "WhatsApp Tools"
+  },
+  {
+    "imageUrl": "https://lh3.googleusercontent.com/mo74k9ExYQ54mPrJ3DHXUa3IJN00kwnjGxm58vxmtjMinviV2h5lZCNFMCp8uEY5DAw=h400",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.love.stickers2",
+    "appName": "Love Stickers For Whatsapp - 2"
+  },
+  {
+    "imageUrl": "https://lh3.googleusercontent.com/Tcutj3zJhw1iA8OuNhQy2Yxn3PINEHvwRjjUVVaWU-jRM9ytYZ3bMhBgX1RhVtehQQ=h400",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.gameofthrones.stickers",
+    "appName": "GOT Stickers For WhatsApp"
+  },
+  {
+    "imageUrl": "https://thumbs.gfycat.com/MintyMinorHarpseal-size_restricted.gif",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.game2048.original2048",
+    "appName": "2048 Game"
+  },
+  {
+    "imageUrl": "https://lh3.googleusercontent.com/I9ViuZOA_5ABsdtNvv7Ye3W27YZPI6CQnwLp3RcUqj6RhtArpFnv2ltRJhgjqNVquSmJ=h400",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.loveromantic.stickers2",
+    "appName": "Romantic Love Stickers For WhatsApp WAStickerApps"
+  },
+  {
+    "imageUrl": "https://lh3.googleusercontent.com/_o0bbmB3OWmyKZARKhin8pRlMVFsF0sK9QgGKGFxlmn11FTdD4y9_jC4x7Xt_Z3RRyE=h400",
+    "playStoreUrl": "https://play.google.com/store/apps/details?id=com.newdoublemeanning.stickers2",
+    "appName": "Double Meaning Stickers"
   }
 ]
