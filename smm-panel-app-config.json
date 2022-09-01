@@ -1,7 +1,7 @@
 {
     "baseUrl": "http://felixyututorial-env.eba-qrai74jd.ap-south-1.elasticbeanstalk.com",
     "systemStatus": {
-        "underMaintenance": false,
+        "underMaintenance": true,
         "underMaintenanceMsg": "Will be back live in few hours"
     },
     "forceUpgradeAppVersions": "11.03,11.04,11.05",
