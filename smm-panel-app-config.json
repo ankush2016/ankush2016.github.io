@@ -1,10 +1,10 @@
 {
     "baseUrl": "http://felixyututorial-env.eba-qrai74jd.ap-south-1.elasticbeanstalk.com",
     "systemStatus": {
-        "underMaintenance": true,
+        "underMaintenance": false,
         "underMaintenanceMsg": "Will be back live in few hours"
     },
-    "forceUpgradeAppVersions": "5.0.14,5.0.15",
+    "forceUpgradeAppVersions": "5.0.14",
     "addMoneyMinAmount": 100,
     "smmPanelApiKey": "27190417451daffc2983a3ab8e0ca74e"
 }
