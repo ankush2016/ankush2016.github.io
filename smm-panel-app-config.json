@@ -4,7 +4,7 @@
         "underMaintenance": true,
         "underMaintenanceMsg": "Will be back live in few hours"
     },
-    "forceUpgradeAppVersions": "11.03,11.04,11.05",
+    "forceUpgradeAppVersions": "5.0.14,5.0.15",
     "addMoneyMinAmount": 100,
     "smmPanelApiKey": "27190417451daffc2983a3ab8e0ca74e"
 }
