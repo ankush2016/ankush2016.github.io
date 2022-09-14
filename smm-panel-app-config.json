@@ -7,5 +7,8 @@
   "forceUpgradeAppVersions": "5.0.14",
   "addMoneyMinAmount": 100,
   "smmPanelBaseUrl": "https://honestsmm.com",
-  "smmPanelApiKey": "27190417451daffc2983a3ab8e0ca74e"
+  "smmPanelApiKey": "27190417451daffc2983a3ab8e0ca74e",
+  "addFundsData": {
+    "qonversionOffering": "offerring_smm_funds"
+  }
 }
