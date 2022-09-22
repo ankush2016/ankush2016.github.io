@@ -11,5 +11,10 @@
   "addFundsData": {
     "qonversionOffering": "offerring_smm_funds",
     "contactUsEmail": "2021ankush.kapoor.4+bp-contactus@gmail.com"
+  },
+  "contactUs": {
+    "isEnabled": true,
+    "telegram": "https://t.me/boost_plus",
+    "email": "2021ankush.kapoor.4+bp-contactus@gmail.com"
   }
 }
