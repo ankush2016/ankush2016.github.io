@@ -3,22 +3,5 @@
   "systemStatus": {
     "underMaintenance": false,
     "underMaintenanceMsg": "Will be back live in few hours"
-  },
-  "forceUpgradeAppVersions": "6.0.01,6.0.02",
-  "addMoneyMinAmount": 100,
-  "smmPanelBaseUrl": "https://honestsmm.com",
-  "smmPanelApiKey": "27190417451daffc2983a3ab8e0ca74e",
-  "addFundsData": {
-    "qonversionOffering": "offerring_smm_funds",
-    "contactUsEmail": "2021ankush.kapoor.4+bp-contactus@gmail.com",
-    "contactEmails": [
-      "2021ankush.kapoor.4+bp-contactus@gmail.com",
-      "support@boost-plus.xyz"
-    ]
-  },
-  "contactUs": {
-    "isEnabled": true,
-    "telegram": "https://t.me/boost_plus",
-    "email": "2021ankush.kapoor.4+bp-contactus@gmail.com"
   }
 }
