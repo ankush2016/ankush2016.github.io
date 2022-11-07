@@ -3,5 +3,6 @@
   "systemStatus": {
     "underMaintenance": false,
     "underMaintenanceMsg": "Will be back live in few hours"
-  }
+  },
+  "bonus": 0.05
 }
