@@ -4,5 +4,12 @@
     "underMaintenance": false,
     "underMaintenanceMsg": "Will be back live in few hours"
   },
-  "bonus": 0.05
+  "bonus": 0.05,
+  "contactUs": {
+    "mailSubject": "Boost+ Add Funds Query",
+    "contactEmails": [
+      "2021ankush.kapoor.4+bp-funds@gmail.com",
+      "support@boost-plus.xyz"
+    ]
+  }
 }
