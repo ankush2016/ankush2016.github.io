@@ -16,9 +16,8 @@
       "support@boost-plus.xyz"
     ]
   },
-  "contactUs": {
+  "telegram": {
     "isEnabled": true,
-    "telegram": "https://t.me/boost_plus",
-    "email": "2021ankush.kapoor.4+bp-contactus@gmail.com"
+    "telegramLink": "https://t.me/boost_plus"
   }
 }
