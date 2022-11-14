@@ -17,6 +17,7 @@
     ],
     "paytmData": {
       "isEnabled": true,
+      "mid": "zomsNZ69103695781960",
       "amountList": [
         50,
         100,
