@@ -29,7 +29,7 @@
     }
   },
   "telegram": {
-    "isEnabled": true,
+    "isEnabled": false,
     "telegramLink": "https://t.me/boostplus_by_viewbooster"
   }
 }
