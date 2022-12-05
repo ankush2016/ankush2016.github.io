@@ -33,5 +33,5 @@
     "isEnabled": false,
     "telegramLink": "https://t.me/boostplus_by_viewbooster"
   },
-  "getRefundEnabled": true
+  "getRefundEnabled": false
 }
