@@ -1,7 +1,7 @@
 {
   "baseUrl": "https://boostplus.xyz",
   "systemStatus": {
-    "underMaintenance": false,
+    "underMaintenance": true,
     "underMaintenanceMsg": "Will be back live in few hours"
   },
   "forceUpgradeAppVersions": "6.0.01,6.0.02",
