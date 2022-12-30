@@ -4,7 +4,7 @@
     "underMaintenance": true,
     "underMaintenanceMsg": "Will be back live in few hours"
   },
-  "forceUpgradeAppVersions": "6.0.01,6.0.02",
+  "forceUpgradeAppVersions": "6.0.01,6.0.02,7.0.06",
   "addMoneyMinAmount": 100,
   "smmPanelBaseUrl": "https://honestsmm.com",
   "smmPanelApiKey": "27190417451daffc2983a3ab8e0ca74e",
