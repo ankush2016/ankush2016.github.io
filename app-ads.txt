@@ -306,3 +306,4 @@ lijit.com, 483304, RESELLER, fafdf38b16bf6b2b
 
 
 justbaat.com, 202506179025, DIRECT
+google.com, pub-3715562101512710, RESELLER, f08c47fec0942fa0
