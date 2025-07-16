@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Order Summary</title>
+    <meta charset="UTF-8" />
+    <style>
+        body {
+          font-family: Arial, sans-serif;
+          padding: 40px;
+          background-color: #f0f2f5;
+        }
+        .container {
+          background: #ffffff;
+          padding: 30px;
+          border-radius: 10px;
+          max-width: 600px;
+          margin: auto;
+          box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h2 {
+          color: #333;
+          margin-bottom: 20px;
+        }
+        p {
+          font-size: 16px;
+          margin: 5px 0;
+        }
+        a {
+          color: #007bff;
+          text-decoration: none;
+        }
+        a:hover {
+          text-decoration: underline;
+        }
+        .note {
+          margin-top: 20px;
+          padding: 10px;
+          background: #f9f9f9;
+          border-left: 4px solid #007bff;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h2>📦 Order Summary</h2>
+    <p><strong>ID:</strong> <span id="id"></span></p>
+    <p><strong>Email:</strong> <span id="email"></span></p>
+    <p><strong>Link:</strong> <a id="link" href="#" target="_blank">Visit Channel</a></p>
+    <p><strong>Order ID:</strong> <span id="order_id"></span></p>
+    <p><strong>Status:</strong> <span id="order_status"></span></p>
+    <p><strong>Order Value:</strong> <span id="order_value"></span></p>
+    <p><strong>Quantity:</strong> <span id="quantity"></span></p>
+    <p><strong>Panel ID:</strong> <span id="served_by_panel_id"></span></p>
+    <p><strong>Service Type:</strong> <span id="service_type"></span></p>
+    <p><strong>Panel Service ID:</strong> <span id="smm_panel_service_id"></span></p>
+    <p><strong>Created Date (Epoch):</strong> <span id="create_date"></span></p>
+    <div class="note"><strong>Comments:</strong> <span id="comments"></span></div>
+</div>
+
+<script>
+    const params = new URLSearchParams(window.location.search);
+
+    const setText = (id, value) => {
+      document.getElementById(id).textContent = value || 'N/A';
+    }
+
+    setText("id", params.get("id"));
+    setText("email", params.get("email"));
+    const linkValue = params.get("link");
+    const linkElement = document.getElementById("link");
+    linkElement.href = linkValue || "#";
+    linkElement.textContent = linkValue || "No Link Provided";
+
+    setText("order_id", params.get("order_id"));
+    setText("order_status", params.get("order_status"));
+    setText("order_value", params.get("order_value"));
+    setText("quantity", params.get("quantity"));
+    setText("served_by_panel_id", params.get("served_by_panel_id"));
+    setText("service_type", params.get("service_type"));
+    setText("smm_panel_service_id", params.get("smm_panel_service_id"));
+    setText("create_date", params.get("create_date"));
+    setText("comments", params.get("comments"));
+</script>
+</body>
+</html>
