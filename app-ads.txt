@@ -311,3 +311,9 @@ uis.mobfox.com, 2456,  RESELLER , 5529a3d1f59865be
 pubmatic.com, 156451, RESELLER, 5d62403b186f2ace
 improvedigital.com, 2417, RESELLER
 inmobi.com, ffc749ae4c514420a2c6cb45d46f8dd3, DIRECT, 83e75a7ae333ca9d
+
+#Coolboot Media
+google.com, pub-5408720375342272, DIRECT, f08c47fec0942fa0
+facebook.com, 1400062737717505, DIRECT, c3e20eee3f780d68
+applovin.com, 2110efb6bfe675672b9bab60f7bbb8e4, DIRECT
+ironsrc.com, [322053], Direct
